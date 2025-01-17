@@ -1,1 +1,1 @@
-Simple calculator chunk
+Simple calculator
